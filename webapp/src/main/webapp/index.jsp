@@ -2,7 +2,7 @@ Hello, War of the Worlds!
 
 <<<<<<< HEAD
 =======
-<p>EDIT: DOES THIS LINE CREATE MERGE CONFLICT?</p>
+<p>EDIT LINE</p>
 
 >>>>>>> cd5b71b46c8f698d7be9e2bbc2155a09186dde7f
     <p>Counting to three:</p>
