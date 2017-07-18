@@ -1,10 +1,5 @@
 Hello, War of the Worlds!
 
-<<<<<<< HEAD
-=======
-<p>EDIT: DOES THIS LINE CREATE MERGE CONFLICT?</p>
-
->>>>>>> cd5b71b46c8f698d7be9e2bbc2155a09186dde7f
     <p>Counting to three:</p>
         <% for (int i=1; i<4; i++) { %>
     <p>This number is <%= i %>.</p>
